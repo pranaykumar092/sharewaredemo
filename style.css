@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #b2c0ce;
+    background-color: #e2eaf3;
 }
 
 .input__container {
@@ -63,6 +63,11 @@ body {
     border: none;
     padding: 8px;
     position: relative;
+  }
+
+  .a {
+    text-decoration: none;
+    color : ffff
   }
 
 header {
